@@ -1,1 +1,1 @@
-# Aseroid-Claasification
+It is the classification of hazardous asteroids with the help of machine learning techniques. Here we use different machine learning techniques to classify the asteroids with the help of 13 selected features.
